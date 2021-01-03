@@ -4,15 +4,15 @@ body {
 h1 {
   font-size: 50px;
 }
-.namehilight {
+.nimi {
   color: orange;
 }
-.half-width {
+.hello {
   width: 40%;
   float: left;
   margin-left: 5%;
   padding-left: 2%;
 }
-img {
+.hello img {
   width: 100;
 }
