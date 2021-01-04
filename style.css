@@ -57,6 +57,7 @@ section {
   background-image: url("images/exp-bg.png");
   background-repeat: no-repeat;
   background-position: left;
+  padding-left: 30px;
 }
 #full-stack {
   border-left: 7px solid;
